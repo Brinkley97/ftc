@@ -1,16 +1,15 @@
-/*!
- * Start Bootstrap - Creative v5.0.1 (https://startbootstrap.com/template-overviews/creative)
- * Copyright 2013-2018 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-creative/blob/master/LICENSE)
- */
 /*
-Color not changing
 redish color I want #a91f19; rgba(169, 31, 25)
 black #212529
 */
+.colorH {
+  color: #a91f19;
+}
+.colorP {
+  color: #212529;
+}
 
-body,
-html {
+body, html {
   width: 100%;
   height: 100%;
 }
